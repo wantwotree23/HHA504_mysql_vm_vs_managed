@@ -10,7 +10,7 @@ I decided to use google cloud platform to create the virtual machine and the clo
 ### VM creation
 1. Select instance to create.
 2. Choose E2 for price and usability.
-3. Choose e2-medium for minimum of 4GB of memory.
+3. Choose e2-small for 2GB of memory.
 4. Choose Ubuntu OS system.
 5. Everything else kept to default.
 
