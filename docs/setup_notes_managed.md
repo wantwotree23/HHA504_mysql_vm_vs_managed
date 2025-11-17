@@ -11,3 +11,6 @@
 
 ## Roadblocks
 1. Initially tried using the connection name to connect to the database externally. However, found the public IP and used that to connect to the database.
+
+## Time to setup
+It took about 10 minutes for the overall creation of the database, connecting to the python script, and running a query to check if the script worked properly.

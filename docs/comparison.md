@@ -1,0 +1,6 @@
+# Comparison
+For a small student project, a managed database will be a great choice. Providing automatic backups, no need for complex configuration tuning, and low cost are all essential for student projects that aim to have an efficient database. Furthermore, a small student project doesn't require heavy workloads which a managed database can easily handle. 
+
+For an departmental analytics DB, a VM self-managed mysql is appropriate. The flexibility in adding users, credentials, privileges and configuring the database is greate for performance. However, if cost or automatic backup/scaling is an issue, a Managed database could also be a great option by providing low cost over time, automated backups, performance configurations and having analytical tools for the performance of the database with logs. 
+
+For HIPAA-aligned workload, a managed database should be preferred. The managed options provide stronger security, automated backups, ability to handle large workloads, encryption optios, and more configuration options. It also shifts burden away from the users when the platform handles most of the software problems and scalabilities.
