@@ -1,5 +1,8 @@
 # MySQL comparison between VM(self-managed) and Managed
 
+## Recording
+Loom recording <https://www.loom.com/share/81188c8ec7574e6eb1ec944c5deea38b>
+
 ## Chosen platform
 I decided to use google cloud platform to create the virtual machine and the cloud SQL database.
 
